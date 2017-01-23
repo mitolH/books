@@ -4,7 +4,7 @@ Just for learning. If I have offended you, please email me. [mitol.huang@gmail.c
 
 - Database
 
-    —— 事务处理 概念与技术 [[Chinese pdf]](./Database/事务处理+概念与技术.pdf)
+    —— 事务处理 概念与技术 [[Chinese pdf]](./Database/事务处理_概念与技术.pdf)
 
 - Git
 
