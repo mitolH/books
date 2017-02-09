@@ -13,3 +13,7 @@ Just for learning. If I have offended you, please email me. [mitol.huang@gmail.c
 - Java
 
     —— Java Concurrency In Practice [[English pdf]](./Java/Java-Concurrency-In-Practice.pdf)
+
+- Maven
+
+    —— Maven 权威指南 [[Chinese pdf]](./Maven/maven权威指南中文版.pdf) [[English pdf]](./Maven/Maven_the_reference_guide.pdf)
